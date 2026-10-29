@@ -1,44 +1,137 @@
 
-# Hi, I'm Astik Lavvhale 👋
+<!--
+  dev-astik GitHub Profile README
+  Repository: https://github.com/dev-astik
+-->
 
-### Android Developer | Kotlin | Building Useful Apps
+<div align="center">
 
-I'm a developer interested in Android development, automation,
-and building practical applications that solve real problems.
+# Hey, I'm Astik 👋
 
-- 🔭 Currently working on **VANI**
-- 📱 Interested in Android development and mobile automation
-- 🌱 Improving my skills in Kotlin and software engineering
-- 🛠️ I enjoy building projects and learning by doing
+### Software Developer | Android · Web Development · Problem Solving
 
-### 🧰 Technologies & Tools
+Building practical projects, exploring technologies,
+and turning ideas into working software.
 
-- **Language:** Kotlin
-- **IDE:** Android Studio
-- **Version Control:** Git & GitHub
-- **Build Tool:** Gradle
-- **Platform:** Android
+[![GitHub](https://img.shields.io/badge/GitHub-dev--astik-181717?style=for-the-badge&logo=github)](https://github.com/dev-astik)
 
-### 🚀 Featured Project
+</div>
 
-**VANI — Voice Command Controller**
+---
 
-An Android project focused on executing voice commands
-to control apps and device features.
+## 👨‍💻 About Me
 
-- Voice command parsing
-- App launching and search
-- Android Accessibility integration
-- Device controls
+- 🚀 I enjoy building useful software and learning through projects.
+- 📱 Working on **VANI**, an Android voice-command controller.
+- 🧠 Building **Brainverse**, a programming learning and practice website.
+- 💻 Interested in mobile development, web technologies, and automation.
+- 🌱 Continuously improving my development and problem-solving skills.
 
-[View VANI Repository](YOUR_REPOSITORY_LINK)
+---
 
-### 📌 More Projects
+## 🚀 Featured Projects
 
-Explore my repositories to see what I'm building
-and learning.
+### 🧠 Brainverse — Learn. Practice. Solve.
 
-### 🤝 Connect With Me
+A website for programmers to learn coding, practice their skills,
+and solve programming problems.
 
-- GitHub: [Your GitHub Profile](YOUR_GITHUB_LINK)
-- LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_LINK)
+**Tech Stack**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+- 🎯 Focus: Programming education and problem solving.
+- 🌐 Type: Web application.
+
+🔗 **[Explore my GitHub repositories](https://github.com/dev-astik?tab=repositories)**
+
+<!-- Replace the link above with the direct Brainverse repository URL when known. -->
+
+---
+
+### 🎙️ VANI — Voice Command Controller
+
+An Android project focused on controlling apps and device features
+through voice commands.
+
+**Tech Stack**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+
+- 🎤 Focus: Voice-command processing.
+- 📱 Platform: Android.
+- ⚙️ Goal: Make common app and device actions easier to perform.
+
+🔗 **[Explore my GitHub repositories](https://github.com/dev-astik?tab=repositories)**
+
+<!-- Replace the link above with the direct VANI repository URL when known. -->
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### Languages
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Development Tools
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-astik&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-astik&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+*Statistics are generated by an external service and may occasionally be unavailable.*
+
+---
+
+## 🎯 My Developer Goals
+
+- Build useful and well-documented software.
+- Improve my Android and web development skills.
+- Strengthen problem-solving and software engineering fundamentals.
+- Learn through practical projects and collaboration.
+- Contribute to the developer community.
+
+---
+
+## 🤝 Connect With Me
+
+- 💻 GitHub: [@dev-astik](https://github.com/dev-astik)
+- 💼 LinkedIn: Add your LinkedIn profile URL here.
+- 🌐 Portfolio: Add your portfolio URL when available.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+**Learn • Build • Solve • Improve**
+
+</div>
