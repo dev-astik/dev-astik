@@ -1,31 +1,32 @@
 
 <div align="center">
 
-<!-- Animated introduction -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1600&color=38BDF8&center=true&vCenter=true&width=650&height=80&lines=ASTIK;Software+Developer;Building+Brainverse+%26+VANI" alt="ASTIK - Software Developer" />
-
-<br/>
-
-<img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Astik&backgroundColor=b6e3f4" width="125" alt="Illustrated avatar of Astik"/>
-
-<br/><br/>
-
-**SOFTWARE DEVELOPER**
-
-Android Development · Web Development · Problem Solving
+<!-- Animated name -->
+<a href="https://github.com/dev-astik">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Astik+%F0%9F%91%8B;Software+Developer;Android+%7C+Web+Development;Building+Brainverse+%26+VANI" alt="Animated introduction" />
+</a>
 
 <br/>
 
-*Building ideas into practical software.*
+<!-- Avatar: replace this URL with your own avatar if desired -->
+<img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Astik&backgroundColor=0b1020" width="150" alt="Astik's illustrated avatar" />
 
 <br/>
+
+### `Code. Create. Improve.`
+
+**Software Developer | Android · Web Development · Problem Solving**
+
+<p>
+  Building practical projects, exploring technologies,<br/>
+  and turning ideas into working software.
+</p>
 
 <a href="https://github.com/dev-astik">
-  <img src="https://img.shields.io/badge/GitHub-dev--astik-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GitHub-dev--astik-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 <a href="https://github.com/dev-astik?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore-0EA5E9?style=flat-square&logo=github&logoColor=white" alt="Explore projects"/>
+  <img src="https://img.shields.io/badge/Explore-Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
 </a>
 
 </div>
@@ -34,36 +35,30 @@ Android Development · Web Development · Problem Solving
 
 <div align="center">
 
-## About Me
+## 👨‍💻 About Me
 
 </div>
 
-<div align="center">
-
-I'm a developer who enjoys creating useful applications and learning through hands-on projects.
-
-Currently working across **Android development, web technologies, and automation**.
-
-</div>
-
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-**Currently Building**
+### 🚀 What I Do
 
-- Brainverse — Programming learning and practice website
-- VANI — Android voice-command controller
+- 📱 Develop Android applications.
+- 🌐 Build web projects.
+- 🧠 Explore programming and problem solving.
+- ⚙️ Experiment with automation and useful tools.
 
 </td>
 <td width="50%" valign="top">
 
-**Developer Focus**
+### 🎯 What I'm Building
 
-- Practical software development
-- Problem-solving fundamentals
-- Clean, maintainable code
-- Continuous learning
+- 🎙️ **VANI** — Android voice-command controller.
+- 🧠 **Brainverse** — Programming learning and practice website.
+- 🌱 Improving my software development skills.
+- 🛠️ Learning through hands-on projects.
 
 </td>
 </tr>
@@ -73,87 +68,68 @@ Currently working across **Android development, web technologies, and automation
 
 <div align="center">
 
-## Featured Projects
+## 🚀 Featured Projects
 
-*Two projects. Different ideas. One goal: building useful software.*
+*Two projects. Two different areas of development.*
 
 </div>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-BRAINVERSE-7C83FD?style=flat-square" alt="Project 01"/>
+<a href="https://github.com/dev-astik">
+  <img src="https://img.shields.io/badge/%F0%9F%A7%A0-Brainverse-7C3AED?style=for-the-badge" alt="Brainverse" />
+</a>
 
 ### Brainverse
 
 **Learn. Practice. Solve.**
 
-</div>
+A website for programmers to learn coding, practice their skills, and solve programming problems.
 
-A programming website designed to help coders learn, practice, and solve programming problems.
+<br/>
 
-**Technology Stack**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 <br/>
 
 **Focus:** Web development and coding practice.
 
-<div align="center">
-
 <a href="https://github.com/dev-astik?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_Project-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Find Brainverse repository"/>
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="Find Brainverse repository" />
 </a>
 
-</div>
-
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/02-VANI-38BDF8?style=flat-square" alt="Project 02"/>
+<a href="https://github.com/dev-astik">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F-VANI-0891B2?style=for-the-badge" alt="VANI" />
+</a>
 
 ### VANI
 
 **Voice Command Controller**
 
-</div>
-
 An Android project focused on controlling apps and device features through voice commands.
-
-**Technology Stack**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-
-</div>
 
 <br/>
 
-**Focus:** Android development and voice-command processing.
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
-<div align="center">
+<br/>
+
+**Focus:** Android development and voice commands.
 
 <a href="https://github.com/dev-astik?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_Project-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Find VANI repository"/>
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="Find VANI repository" />
 </a>
-
-</div>
 
 </td>
 </tr>
@@ -161,7 +137,7 @@ An Android project focused on controlling apps and device features through voice
 
 <div align="center">
 
-<sub>Replace the repository links with direct project URLs when available.</sub>
+<sub>Replace the repository links above with the direct Brainverse and VANI URLs when available.</sub>
 
 </div>
 
@@ -169,19 +145,19 @@ An Android project focused on controlling apps and device features through voice
 
 <div align="center">
 
-## Tech Stack
+## 🧰 Tech Stack & Tools
 
-### Languages & Development
+### Languages
 
-<img src="https://skillicons.dev/icons?i=kotlin,html,css,js,python&theme=dark" alt="Kotlin, HTML, CSS, JavaScript and Python"/>
+<img src="https://skillicons.dev/icons?i=kotlin,html,css,js,python&theme=dark" alt="Kotlin, HTML, CSS, JavaScript and Python" />
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
 
-### Tools
+### Development Tools
 
-<img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode&theme=dark" alt="Android Studio, Git, GitHub and VS Code"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode&theme=dark" alt="Android Studio, Git, GitHub and VS Code" />
 
 </div>
 
@@ -189,22 +165,22 @@ An Android project focused on controlling apps and device features through voice
 
 <div align="center">
 
-## GitHub Statistics
+## 📊 GitHub Dashboard
 
 <a href="https://github.com/dev-astik">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-astik&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-astik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/dev-astik">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-astik&layout=compact&theme=github_dark&hide_border=true" alt="Most-used repository languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-astik&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used repository languages" />
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=dev-astik&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=dev-astik&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 <br/>
 
-<sub>Statistics are provided by third-party services and may occasionally be unavailable.</sub>
+<sub>Statistics are provided by external services and may be unavailable or incomplete.</sub>
 
 </div>
 
@@ -212,29 +188,29 @@ An Android project focused on controlling apps and device features through voice
 
 <div align="center">
 
-## Current Goals
+## 🎯 My Developer Goals
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-**01 · BUILD**
+### 🏗️ Build
 
-Create practical, well-documented projects.
-
-</td>
-<td align="center" width="33%">
-
-**02 · IMPROVE**
-
-Write cleaner code and strengthen problem-solving skills.
+Create useful and well-documented projects.
 
 </td>
 <td align="center" width="33%">
 
-**03 · GROW**
+### 📚 Learn
 
-Learn new technologies and collaborate with developers.
+Improve development and problem-solving skills.
+
+</td>
+<td align="center" width="33%">
+
+### 🌍 Contribute
+
+Learn through collaboration and open source.
 
 </td>
 </tr>
@@ -242,18 +218,27 @@ Learn new technologies and collaborate with developers.
 
 ---
 
-## Connect
+## 🤝 Let's Connect
 
 <a href="https://github.com/dev-astik">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
+<!-- Add your real profile links when available.
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
+-->
 
 <br/><br/>
 
-*Build with purpose. Keep improving.*
+### Thanks for visiting my profile! ⭐
 
-<br/>
+**Learn · Build · Solve · Improve**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0284C7&height=100&section=footer" width="100%" alt="Minimal blue footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=100&section=footer" width="100%" alt="Decorative blue and purple footer" />
 
 </div>
