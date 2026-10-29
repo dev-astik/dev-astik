@@ -163,14 +163,16 @@ An Android project focused on controlling apps and device features through voice
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ## 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-astik&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-astik&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Most Used Languages" />
-</p>
+<a href="https://github.com/dev-astik">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-astik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/dev-astik">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-astik&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used repository languages" />
+</a>
 
 <br/><br/>
 
@@ -182,7 +184,7 @@ An Android project focused on controlling apps and device features through voice
 
 </div>
 
----
+--- -->
 
 <div align="center">
 
